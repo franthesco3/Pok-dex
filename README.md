@@ -4,13 +4,16 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Teste técnico para a vaga de Desenvolveddor Flutter
 
-A few resources to get you started if this is your first Flutter project:
+O projeto foi desenvolvido com Flutter, Mobx, Clean Architecture e GetIt, como requisitos obrigatorios.
+Para rodar o projeto basta clonar ele, ir no terminal e rodar o comando 'flutter pub get' e apos isso, apenas executar.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Os packages utilizados foram os os necessários para cumprir os requsitos:
+Mobx gerencia de estados
+lottie para animacoes simples
+o dio para as requisicoes
+Flutter svg para renderizar imagens
+Flutter modular atualizar a ui
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
